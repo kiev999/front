@@ -1,0 +1,25 @@
+/* Add this to your 'navB.css' file */
+.navbar {
+  background-color: #0074e4; /* Blue background color */
+}
+
+.brand {
+  text-decoration: none;
+  color: #fff; /* White text color for the brand */
+  font-size: 24px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff; /* White text color for links */
+  font-size: 18px;
+  margin: 0 15px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.link:hover {
+  color: #c0c0c0; /* Light gray text color on hover */
+}
